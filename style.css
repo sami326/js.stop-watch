@@ -1,0 +1,22 @@
+  
+*{
+    -webkit-user-select: none; /* Safari */        
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* IE10+/Edge */
+    user-select: none; /* Standard */
+}
+
+body{
+    background: url(https://1.bp.blogspot.com/-MdaQwrpT4Gs/Xdt-ff_hxEI/AAAAAAAAQXE/oOgnysGd9LwoFLMHJ0etngKzXxmQkWc5ACLcBGAsYHQ/s400/Beautiful-Backgrounds%2B%2528122%2529.jpg);
+    background-repeat: no-repeat;
+    background-size: 2000px;
+}
+
+.icon-image{
+    width: 48px;
+    margin-top: -16px !important;
+}
+
+.br-style{
+    border-radius: 5px;
+}
